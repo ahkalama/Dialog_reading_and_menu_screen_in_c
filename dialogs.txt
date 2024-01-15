@@ -1,0 +1,8 @@
+7 (kaç satır olduğu)
+1906727 d ""
+11259084 b "God Please Help me, I trapped here..."
+12237361 c "Seda, I found you finally, how did you end up here? Wait, I will save you!"
+11259084 b "Ahmet!! Oh Thanks God! This place is so cold, and i'am scared, How did you find me?"
+12237361 c "Never mind how did I find you. You're safe now, that's all that matters"
+11259084 b "Hurry Up! We need to get out here!"
+12237361 c "I came with my tofas, wait ı'm coming for you babe."
