@@ -1,5 +1,6 @@
 #include <SDL2/SDL.h>
 
+// calısıp calısmadıgı test edilmedi cunku fucking sdl2 yüklenmiyor 
 int main()
 {
     if (SDL_Init(SDL_INIT_AUDIO) < 0)
