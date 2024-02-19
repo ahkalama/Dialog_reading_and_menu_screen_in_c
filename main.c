@@ -16,7 +16,7 @@
 
 int myFunc(t_mlx *data)
 {
-
+	// mlx_loop_hook dan gelen sürekli klavye kontrolleriyle bir döngü içinde çalışır
 	data->dmethod(data);
 	return (0);
 }
